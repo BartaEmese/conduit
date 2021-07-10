@@ -1,0 +1,12 @@
+Regisztráció: A felhasználó tud regisztrálni, név, emailcím és jelszó megadásával
+Bejelentkezés: A felnasználó be tud jelentkezni a saját fiókjába emailcím és jelszô megadásával
+Kijelentkezés: A felhasználó ki tud jelentkezni a saját fiókjából
+Követés: A felhasználó képes követni más blogszerzõket
+Blog Posztolás: A felhasználó tud készíteni saját blog posztokat
+Cikk részleteinek megtekintése: A felhasnáló ki tudja választani a blog írók egyikét, aki posztolt a blogon és meg tudja nézni a blog részleteit
+Saját blog bejegyzés szerkesztése: A felhasználó tudja szerkeszteni saját blog bejegyzéseit
+Saját blog bejegyzés törlése: A felhasználó tudja törölni a saját blog bejegyzéseit.
+Blog bejegyzés megjelölése kedvecként: A felhasznnló meg tudja jelölni kedvencként és nem kedvencként más blogírók blogbejegyzéseit
+Blog hírholyam: A felhasználó hozzáfér az elérhetõ blogok listájához amit olvasni szeretne
+Címkék használata: A felhasználó címkét tud adni a saját blogbejegyzéséhez, a könnyebb megtalálás érdekében
+Címkék folyam oldal: A felhasználó címkék szerint tudja megtalálni az aktuális érdeklõdésû blog bejegyzéseit 

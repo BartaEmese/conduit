@@ -1,6 +1,17 @@
-A001,Conduit_TC1001_Home, ui automation, because critical and business functionality
-A002,Conduit_TC1002_Reg, integration (API) test, speed and because I don't want to test the registration fields on the frontend, but the backend functionality
-A003,Conduit_TC1004_Login, ui or integration (API) test, ui test because it is critical and can be used as healthcheck/smoke test, API because it is critical functionality that is backend heavy
-A004,Conduit_TC1007_new_post, integration (API) test, because it is data intensive and repetitive test, that is fully doable on API level
-A005,Conduit_TC1010_edit_post, integration (API) test, because it is data intensive and repetitive test, that is fully doable on API level
-...
+A001, Conduit_TC_001_Reg_regisztráció, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A002, Conduit_TC_002_Reg_registráció, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A003, Conduit_TC_003_Reg_regisztráció, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A004, Conduit_TC_004_Reg_regisztráció, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A005, Conduit_TC_005_Reg_bejelentkezés, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A006, Conduit_TC_006_Reg_kijelentkrzés, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A007, Conduit_TC_007_Reg_követés, nem autómatizálnám, mert csak 3-as prioritású 
+A008, Conduit_TC_008_Reg_követés, nem autómatizálnám, mert csak 3-as prioritású
+A009, Conduit_TC_009_Reg_új blog postszolás, felület, automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A010, Conduit_TC_010_Reg_blogbejegyzés részleteinek megtekintése, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A011, Conduit_TC_011_Reg_saját blogbejegyzés szerkesztés, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A012, Conduit_TC_012_Reg_saját blogbejegyzés törlése, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A013, Conduit_TC_013_Reg_megjelölni blogposztokat kedvencként, nem autómatizálnám, mert csak 2-as prioritású
+A014, Conduit_TC_014_Reg_tagek használata új bejegyzés esetén, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A015, Conduit_TC_015_Reg_tagek használata meglévő blogbejegyzés esetén, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A016, Conduit_TC_016_Reg_tag folyamoldal vizsgálata, felület automatizázás, mert 1-es prioritású és ismételt végrehajtást tartalmaz
+A017, Conduit_TC_017_Reg_meglévő blogbejegyzés commentelése, nem autómatizálnám, mert csak 2-as prioritású
