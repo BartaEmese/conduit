@@ -4,13 +4,13 @@
     "name" : "testproject.conduit_tc_001_reg_test",
     "children" : [ {
       "name" : "test_conduit01",
-      "uid" : "232125611669d394",
+      "uid" : "b1cc241ee3bc64cf",
       "parentUid" : "e62741c7a9f1f071e2feccaabc63ef2e",
       "status" : "broken",
       "time" : {
-        "start" : 1628363534196,
-        "stop" : 1628363541870,
-        "duration" : 7674
+        "start" : 1628364001446,
+        "stop" : 1628364008754,
+        "duration" : 7308
       },
       "flaky" : false,
       "newFailed" : false,

@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Sat Aug 07 19:12:14 GMT 2021","Sat Aug 07 19:12:21 GMT 2021","7674","testproject","conduit_tc_001_reg_test","","","","test_conduit01",""
+"broken","Sat Aug 07 19:20:01 GMT 2021","Sat Aug 07 19:20:08 GMT 2021","7308","testproject","conduit_tc_001_reg_test","","","","test_conduit01",""
