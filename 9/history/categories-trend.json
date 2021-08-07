@@ -6,5 +6,12 @@
     "Test defects" : 1
   }
 }, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "Test defects" : 1
+  }
+}, {
   "data" : { }
 } ]

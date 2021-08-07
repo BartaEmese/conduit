@@ -1,10 +1,10 @@
 [ {
-  "uid" : "b1cc241ee3bc64cf",
+  "uid" : "e882f10005ca05d9",
   "name" : "test_conduit01",
   "time" : {
-    "start" : 1628364001446,
-    "stop" : 1628364008754,
-    "duration" : 7308
+    "start" : 1628365009429,
+    "stop" : 1628365014297,
+    "duration" : 4868
   },
   "status" : "broken",
   "severity" : "normal"
