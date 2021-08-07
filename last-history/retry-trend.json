@@ -1,12 +1,4 @@
 [ {
-  "buildOrder" : 9,
-  "reportUrl" : "https://BartaEmese.github.io/conduit/9/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 1,
-    "retry" : 0
-  }
-}, {
   "data" : {
     "run" : 0,
     "retry" : 0
