@@ -8,11 +8,16 @@ def test_conduit01():
     # 4- OS: Windows 10
     # Követelmény: Req.id: R01
     import csv
-
     from selenium import webdriver
     import time
 
-    driver = webdriver.Chrome()
+    from selenium.webdriver.chrome.options import Options
+    from webdriver_manager.chrome import ChromeDriverManager
+
+    options = Options()
+    options.add_argument('--headless')
+
+    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
     # Oldal betöltése
     driver.get("http://localhost:1667")
