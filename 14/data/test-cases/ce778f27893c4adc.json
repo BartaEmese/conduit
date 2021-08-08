@@ -1,0 +1,119 @@
+{
+  "uid" : "ce778f27893c4adc",
+  "name" : "test_conduit01",
+  "fullName" : "testproject.conduit_tc_001_reg_test#test_conduit01",
+  "historyId" : "dd84d751a6356fcc3f2119dc0ce32734",
+  "time" : {
+    "start" : 1628440668038,
+    "stop" : 1628440686190,
+    "duration" : 18152
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "39f39d01f03cad00",
+      "name" : "log",
+      "source" : "39f39d01f03cad00.txt",
+      "type" : "text/plain",
+      "size" : 642
+    }, {
+      "uid" : "f90b78b4d8324a9d",
+      "name" : "stdout",
+      "source" : "f90b78b4d8324a9d.txt",
+      "type" : "text/plain",
+      "size" : 108
+    }, {
+      "uid" : "5764b83851451ad",
+      "name" : "stderr",
+      "source" : "5764b83851451ad.txt",
+      "type" : "text/plain",
+      "size" : 435
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "conduit_tc_001_reg_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az77-771"
+  }, {
+    "name" : "thread",
+    "value" : "3737-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.conduit_tc_001_reg_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "355a78b132bf42cb",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/13//#testresult/355a78b132bf42cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628440637648,
+          "stop" : 1628440645541,
+          "duration" : 7893
+        }
+      }, {
+        "uid" : "c9149945ea124adc",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/12//#testresult/c9149945ea124adc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628439884198,
+          "stop" : 1628439896127,
+          "duration" : 11929
+        }
+      }, {
+        "uid" : "fb1cd96dbf0e2efb",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/12//#testresult/fb1cd96dbf0e2efb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628438695377,
+          "stop" : 1628438707588,
+          "duration" : 12211
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ce778f27893c4adc.json",
+  "parameterValues" : [ ]
+}
