@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "c9149945ea124adc",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/12//#testresult/c9149945ea124adc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628439884198,
+        "stop" : 1628439896127,
+        "duration" : 11929
+      }
+    }, {
       "uid" : "fb1cd96dbf0e2efb",
       "reportUrl" : "https://BartaEmese.github.io/conduit/12//#testresult/fb1cd96dbf0e2efb",
       "status" : "passed",

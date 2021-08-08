@@ -4,5 +4,10 @@
   "reportName" : "Allure Report with history",
   "data" : { }
 }, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/12/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "data" : { }
 } ]
