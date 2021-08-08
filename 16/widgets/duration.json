@@ -1,0 +1,11 @@
+[ {
+  "uid" : "eb47e101e898d0b2",
+  "name" : "test_conduit01",
+  "time" : {
+    "start" : 1628441146722,
+    "stop" : 1628441162877,
+    "duration" : 16155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
