@@ -1,4 +1,4 @@
-allure-pytest==2.9.43
+pip allure-pytest==2.9.43
 allure-python-commons==2.9.43
 appdirs==1.4.4
 atomicwrites==1.4.0
