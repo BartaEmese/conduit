@@ -4,63 +4,18 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 6
+      "total" : 1
     },
     "items" : [ {
-      "uid" : "eb47e101e898d0b2",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/16//#testresult/eb47e101e898d0b2",
+      "uid" : "d165c07d2861f74d",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/16//#testresult/d165c07d2861f74d",
       "status" : "passed",
       "time" : {
-        "start" : 1628441146722,
-        "stop" : 1628441162877,
-        "duration" : 16155
-      }
-    }, {
-      "uid" : "362d1a2906270ac8",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/15//#testresult/362d1a2906270ac8",
-      "status" : "passed",
-      "time" : {
-        "start" : 1628440715314,
-        "stop" : 1628440728310,
-        "duration" : 12996
-      }
-    }, {
-      "uid" : "ce778f27893c4adc",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/14//#testresult/ce778f27893c4adc",
-      "status" : "passed",
-      "time" : {
-        "start" : 1628440668038,
-        "stop" : 1628440686190,
-        "duration" : 18152
-      }
-    }, {
-      "uid" : "355a78b132bf42cb",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/13//#testresult/355a78b132bf42cb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1628440637648,
-        "stop" : 1628440645541,
-        "duration" : 7893
-      }
-    }, {
-      "uid" : "c9149945ea124adc",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/12//#testresult/c9149945ea124adc",
-      "status" : "passed",
-      "time" : {
-        "start" : 1628439884198,
-        "stop" : 1628439896127,
-        "duration" : 11929
-      }
-    }, {
-      "uid" : "fb1cd96dbf0e2efb",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/12//#testresult/fb1cd96dbf0e2efb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1628438695377,
-        "stop" : 1628438707588,
-        "duration" : 12211
+        "start" : 1628971577243,
+        "stop" : 1628971590444,
+        "duration" : 13201
       }
     } ]
   }

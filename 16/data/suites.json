@@ -6,13 +6,13 @@
       "name" : "conduit_tc_001_reg_test",
       "children" : [ {
         "name" : "test_conduit01",
-        "uid" : "eb47e101e898d0b2",
+        "uid" : "d165c07d2861f74d",
         "parentUid" : "3bab3948467d9117a43eb048a261b104",
         "status" : "passed",
         "time" : {
-          "start" : 1628441146722,
-          "stop" : 1628441162877,
-          "duration" : 16155
+          "start" : 1628971577243,
+          "stop" : 1628971590444,
+          "duration" : 13201
         },
         "flaky" : false,
         "newFailed" : false,
