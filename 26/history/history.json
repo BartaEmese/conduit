@@ -4,11 +4,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "8709d37a2ac7735",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/8709d37a2ac7735",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056995003,
+        "stop" : 1629057006454,
+        "duration" : 11451
+      }
+    }, {
+      "uid" : "26bde48e4e50c246",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/26bde48e4e50c246",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056385964,
+        "stop" : 1629056397573,
+        "duration" : 11609
+      }
+    }, {
       "uid" : "2951ded03e0d3bff",
       "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/2951ded03e0d3bff",
       "status" : "passed",
@@ -58,14 +76,33 @@
   },
   "e011632aa3b12865df24965950f3faae" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "31d7b8e9e29bf9ff",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/31d7b8e9e29bf9ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629057006459,
+        "stop" : 1629057027884,
+        "duration" : 21425
+      }
+    }, {
+      "uid" : "9c3ef50cb888435b",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/9c3ef50cb888435b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 11 == 5\n +  where 11 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"d2d1e14e-33ef-...belement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"bf8d40ba-c8c3-40e4-9f1b-2e6a57acfb5b\")>, ...])\n +  and   5 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"fc9eec1a-c373-...te.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"bfb795f8-f1f1-430b-beb9-48d71cc1fb08\")>])",
+      "time" : {
+        "start" : 1629056397576,
+        "stop" : 1629056420076,
+        "duration" : 22500
+      }
+    }, {
       "uid" : "6f073e008a209e93",
       "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/6f073e008a209e93",
       "status" : "passed",
@@ -119,11 +156,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "da718b9a0e70af39",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/da718b9a0e70af39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056949142,
+        "stop" : 1629056986059,
+        "duration" : 36917
+      }
+    }, {
+      "uid" : "7bc36f2930852199",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/7bc36f2930852199",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056340164,
+        "stop" : 1629056376942,
+        "duration" : 36778
+      }
+    }, {
       "uid" : "b672c6a3c9345520",
       "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/b672c6a3c9345520",
       "status" : "passed",
@@ -176,11 +231,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "fee31c6e216fb63e",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/fee31c6e216fb63e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629057027886,
+        "stop" : 1629057033665,
+        "duration" : 5779
+      }
+    }, {
+      "uid" : "83a103e96d02b6ef",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/83a103e96d02b6ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056420092,
+        "stop" : 1629056426955,
+        "duration" : 6863
+      }
+    }, {
       "uid" : "5b83590e4f5d72aa",
       "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/5b83590e4f5d72aa",
       "status" : "passed",
@@ -233,11 +306,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "136a0a8371bb6c01",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/136a0a8371bb6c01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056931006,
+        "stop" : 1629056948064,
+        "duration" : 17058
+      }
+    }, {
+      "uid" : "51267bb3eb28fc04",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/51267bb3eb28fc04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056303941,
+        "stop" : 1629056324538,
+        "duration" : 20597
+      }
+    }, {
       "uid" : "8f44286a9045d366",
       "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/8f44286a9045d366",
       "status" : "passed",
@@ -288,13 +379,33 @@
   "bee41d7ee7186b1d87a775ce0e2f0c80" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 5,
+      "broken" : 7,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "7661c8a197bb80a9",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/7661c8a197bb80a9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+      "time" : {
+        "start" : 1629056948068,
+        "stop" : 1629056949064,
+        "duration" : 996
+      }
+    }, {
+      "uid" : "b26dba8fbef86eaa",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/b26dba8fbef86eaa",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"swal-title\"]\"}\n  (Session info: headless chrome=92.0.4515.131)",
+      "time" : {
+        "start" : 1629056324542,
+        "stop" : 1629056340067,
+        "duration" : 15525
+      }
+    }, {
       "uid" : "12dc716bd3192512",
       "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/12dc716bd3192512",
       "status" : "broken",
@@ -351,11 +462,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "9f66ec97aa98756c",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/9f66ec97aa98756c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056986063,
+        "stop" : 1629056995000,
+        "duration" : 8937
+      }
+    }, {
+      "uid" : "5de3ca39bbd3d7c3",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/5de3ca39bbd3d7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056376945,
+        "stop" : 1629056385961,
+        "duration" : 9016
+      }
+    }, {
       "uid" : "88cf9553cec31dc4",
       "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/88cf9553cec31dc4",
       "status" : "passed",
@@ -408,11 +537,29 @@
       "failed" : 1,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 5,
       "unknown" : 0,
-      "total" : 5
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "90176e1a8698a626",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/90176e1a8698a626",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629057033668,
+        "stop" : 1629057044539,
+        "duration" : 10871
+      }
+    }, {
+      "uid" : "d174329a2a6ee52a",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/d174329a2a6ee52a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629056426959,
+        "stop" : 1629056437954,
+        "duration" : 10995
+      }
+    }, {
       "uid" : "dd5838617840babd",
       "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/dd5838617840babd",
       "status" : "passed",

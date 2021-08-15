@@ -1,4 +1,16 @@
 [ {
+  "buildOrder" : 26,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/26/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 1,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
   "buildOrder" : 27,
   "reportUrl" : "https://BartaEmese.github.io/conduit/27/",
   "reportName" : "Allure Report with history",
