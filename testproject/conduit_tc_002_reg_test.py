@@ -16,7 +16,7 @@ def test_conduit02():
     from webdriver_manager.chrome import ChromeDriverManager
 
     options = Options()
-    options.add_argument('--headless')
+    #options.add_argument('--headless')
 
     driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
@@ -46,8 +46,8 @@ def test_conduit02():
         return emails
 
     # elemek kikeresése xpath alapján
-    def find_and_by_xpath(xpath):
-        element = driver.find_element_by_xpath(xpath)
+    def find_and_by_xpath(xpath_1):
+        element = driver.find_element_by_xpath(xpath_1)
         return element
 
     # Tesztadatok
