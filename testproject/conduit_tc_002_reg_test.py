@@ -62,9 +62,9 @@ def test_conduit02():
         email.send_keys(email_v)
         password = find_and_by_xpath('//input[@placeholder="Password"]')
         password.send_keys(password_v)
-        time.sleep(2)
+        time.sleep(3)
         find_and_by_xpath('//button[@class="btn btn-lg btn-primary pull-xs-right"]').click()
-        time.sleep(2)
+        time.sleep(5)
 
     # Alert gomb megnyomás függvény
     def alert_button_click():
