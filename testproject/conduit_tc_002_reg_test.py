@@ -70,7 +70,7 @@ def test_conduit02():
     def alert_button_click():
         alert_button = find_and_by_xpath('//button[@class="swal-button swal-button--confirm"]')
         alert_button.click()
-        time.sleep(1)
+        time.sleep(3)
 
     # Sign up link kikeresése és klikkekése
     sign_up = find_and_by_xpath("//a[@href='#/register']")
