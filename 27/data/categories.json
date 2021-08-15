@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"swal-title\"]\"}\n  (Session info: headless chrome=92.0.4515.131)",
+      "children" : [ {
+        "name" : "test_conduit02",
+        "uid" : "b26dba8fbef86eaa",
+        "parentUid" : "fab9ea84cb5a0728eac285b1e05e0415",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629056324542,
+          "stop" : 1629056340067,
+          "duration" : 15525
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fab9ea84cb5a0728eac285b1e05e0415"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 11 == 5\n +  where 11 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"d2d1e14e-33ef-...belement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"bf8d40ba-c8c3-40e4-9f1b-2e6a57acfb5b\")>, ...])\n +  and   5 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"fc9eec1a-c373-...te.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"bfb795f8-f1f1-430b-beb9-48d71cc1fb08\")>])",
+      "children" : [ {
+        "name" : "test_conduit12",
+        "uid" : "9c3ef50cb888435b",
+        "parentUid" : "a7e8b4329cf7713b5243c0c35e8102de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1629056397576,
+          "stop" : 1629056420076,
+          "duration" : 22500
+        },
+        "flaky" : true,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a7e8b4329cf7713b5243c0c35e8102de"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
