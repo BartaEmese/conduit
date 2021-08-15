@@ -1,0 +1,176 @@
+{
+  "uid" : "4d4fbf30ea564015",
+  "name" : "test_conduit02",
+  "fullName" : "testproject.conduit_tc_002_reg_test#test_conduit02",
+  "historyId" : "bee41d7ee7186b1d87a775ce0e2f0c80",
+  "time" : {
+    "start" : 1629058398673,
+    "stop" : 1629058425356,
+    "duration" : 26683
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1e59d4111b58c4dd",
+      "name" : "log",
+      "source" : "1e59d4111b58c4dd.txt",
+      "type" : "text/plain",
+      "size" : 344
+    }, {
+      "uid" : "a2bfd39d035f09f7",
+      "name" : "stderr",
+      "source" : "a2bfd39d035f09f7.txt",
+      "type" : "text/plain",
+      "size" : 215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "conduit_tc_002_reg_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az74-94"
+  }, {
+    "name" : "thread",
+    "value" : "3714-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.conduit_tc_002_reg_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 8,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "6fb704de95296f30",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/29//#testresult/6fb704de95296f30",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert '' == 'Welcome!'\n  - Welcome!",
+        "time" : {
+          "start" : 1629057799642,
+          "stop" : 1629057815115,
+          "duration" : 15473
+        }
+      }, {
+        "uid" : "31e6b9bb938721b3",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/28//#testresult/31e6b9bb938721b3",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"swal-title\"]\"}\n  (Session info: headless chrome=92.0.4515.131)",
+        "time" : {
+          "start" : 1629057320434,
+          "stop" : 1629057333775,
+          "duration" : 13341
+        }
+      }, {
+        "uid" : "7661c8a197bb80a9",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/7661c8a197bb80a9",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+        "time" : {
+          "start" : 1629056948068,
+          "stop" : 1629056949064,
+          "duration" : 996
+        }
+      }, {
+        "uid" : "b26dba8fbef86eaa",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/b26dba8fbef86eaa",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"swal-title\"]\"}\n  (Session info: headless chrome=92.0.4515.131)",
+        "time" : {
+          "start" : 1629056324542,
+          "stop" : 1629056340067,
+          "duration" : 15525
+        }
+      }, {
+        "uid" : "12dc716bd3192512",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/12dc716bd3192512",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+        "time" : {
+          "start" : 1629056262123,
+          "stop" : 1629056264040,
+          "duration" : 1917
+        }
+      }, {
+        "uid" : "a459e3372dfca788",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/25//#testresult/a459e3372dfca788",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+        "time" : {
+          "start" : 1629055834131,
+          "stop" : 1629055835217,
+          "duration" : 1086
+        }
+      }, {
+        "uid" : "e3b48ebf2a4bfdde",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/24//#testresult/e3b48ebf2a4bfdde",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"swal-title\"]\"}\n  (Session info: headless chrome=92.0.4515.131)",
+        "time" : {
+          "start" : 1629054866540,
+          "stop" : 1629054880997,
+          "duration" : 14457
+        }
+      }, {
+        "uid" : "2435dcd2bfc38b1",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/2435dcd2bfc38b1",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"swal-title\"]\"}\n  (Session info: headless chrome=92.0.4515.131)",
+        "time" : {
+          "start" : 1629054082527,
+          "stop" : 1629054096021,
+          "duration" : 13494
+        }
+      }, {
+        "uid" : "a8743f5fcc7990b5",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/a8743f5fcc7990b5",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+        "time" : {
+          "start" : 1629053650849,
+          "stop" : 1629053652038,
+          "duration" : 1189
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4d4fbf30ea564015.json",
+  "parameterValues" : [ ]
+}
