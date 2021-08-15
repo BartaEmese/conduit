@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"swal-title\"]\"}\n  (Session info: headless chrome=92.0.4515.131)",
+      "children" : [ {
+        "name" : "test_conduit02",
+        "uid" : "e3b48ebf2a4bfdde",
+        "parentUid" : "fab9ea84cb5a0728eac285b1e05e0415",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629054866540,
+          "stop" : 1629054880997,
+          "duration" : 14457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fab9ea84cb5a0728eac285b1e05e0415"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 11 <= 10\n +  where 11 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"81ad46ea9af34c8c004f106a1e7898fc\", element=\"d15a132f-8cb8-...belement.WebElement (session=\"81ad46ea9af34c8c004f106a1e7898fc\", element=\"ad73d67c-ed76-47c0-87cd-63996c08d24b\")>, ...])",
+      "children" : [ {
+        "name" : "test_conduit19",
+        "uid" : "19097c060f8ded41",
+        "parentUid" : "f4beebfd12db19f2a761730e23fc78e0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1629054967458,
+          "stop" : 1629054977427,
+          "duration" : 9969
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f4beebfd12db19f2a761730e23fc78e0"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

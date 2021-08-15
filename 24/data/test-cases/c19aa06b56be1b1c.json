@@ -1,0 +1,111 @@
+{
+  "uid" : "c19aa06b56be1b1c",
+  "name" : "test_conduit04",
+  "fullName" : "testproject.conduit_tc_004_reg_test#test_conduit04",
+  "historyId" : "8f2dd96fadb92e330d23fde1e8f703d9",
+  "time" : {
+    "start" : 1629054881142,
+    "stop" : 1629054918345,
+    "duration" : 37203
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b6c51fc7767e9aab",
+      "name" : "log",
+      "source" : "b6c51fc7767e9aab.txt",
+      "type" : "text/plain",
+      "size" : 344
+    }, {
+      "uid" : "8e229135ea00d698",
+      "name" : "stdout",
+      "source" : "8e229135ea00d698.txt",
+      "type" : "text/plain",
+      "size" : 133
+    }, {
+      "uid" : "db0a0641b598c464",
+      "name" : "stderr",
+      "source" : "db0a0641b598c464.txt",
+      "type" : "text/plain",
+      "size" : 215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "conduit_tc_004_reg_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az81-606"
+  }, {
+    "name" : "thread",
+    "value" : "3740-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.conduit_tc_004_reg_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "d8c2ab0feb3ac981",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/d8c2ab0feb3ac981",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629054096105,
+          "stop" : 1629054132862,
+          "duration" : 36757
+        }
+      }, {
+        "uid" : "fe77ca6a4f836529",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/fe77ca6a4f836529",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+        "time" : {
+          "start" : 1629053652078,
+          "stop" : 1629053653264,
+          "duration" : 1186
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c19aa06b56be1b1c.json",
+  "parameterValues" : [ ]
+}
