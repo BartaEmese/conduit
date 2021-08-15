@@ -1,0 +1,167 @@
+{
+  "uid" : "32fd679576abc36b",
+  "name" : "test_conduit12",
+  "fullName" : "testproject.conduit_tc_012-reg_test#test_conduit12",
+  "historyId" : "e011632aa3b12865df24965950f3faae",
+  "time" : {
+    "start" : 1629057871833,
+    "stop" : 1629057893392,
+    "duration" : 21559
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a685e50bacbdf34",
+      "name" : "log",
+      "source" : "3a685e50bacbdf34.txt",
+      "type" : "text/plain",
+      "size" : 344
+    }, {
+      "uid" : "8f6d890c447efda3",
+      "name" : "stdout",
+      "source" : "8f6d890c447efda3.txt",
+      "type" : "text/plain",
+      "size" : 4
+    }, {
+      "uid" : "96941ea78c18e47",
+      "name" : "stderr",
+      "source" : "96941ea78c18e47.txt",
+      "type" : "text/plain",
+      "size" : 215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "conduit_tc_012-reg_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-798"
+  }, {
+    "name" : "thread",
+    "value" : "3935-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.conduit_tc_012-reg_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "89dc9bfa6127d80f",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/28//#testresult/89dc9bfa6127d80f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629057391681,
+          "stop" : 1629057414352,
+          "duration" : 22671
+        }
+      }, {
+        "uid" : "31d7b8e9e29bf9ff",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/31d7b8e9e29bf9ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629057006459,
+          "stop" : 1629057027884,
+          "duration" : 21425
+        }
+      }, {
+        "uid" : "9c3ef50cb888435b",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/9c3ef50cb888435b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 11 == 5\n +  where 11 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"d2d1e14e-33ef-...belement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"bf8d40ba-c8c3-40e4-9f1b-2e6a57acfb5b\")>, ...])\n +  and   5 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"fc9eec1a-c373-...te.webelement.WebElement (session=\"5b051a7d2c2fed64dfd076fdc96bd08b\", element=\"bfb795f8-f1f1-430b-beb9-48d71cc1fb08\")>])",
+        "time" : {
+          "start" : 1629056397576,
+          "stop" : 1629056420076,
+          "duration" : 22500
+        }
+      }, {
+        "uid" : "6f073e008a209e93",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/6f073e008a209e93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629056321272,
+          "stop" : 1629056343673,
+          "duration" : 22401
+        }
+      }, {
+        "uid" : "3770d319b371f43d",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/25//#testresult/3770d319b371f43d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629055890889,
+          "stop" : 1629055912327,
+          "duration" : 21438
+        }
+      }, {
+        "uid" : "c7a25fa742f0b822",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/24//#testresult/c7a25fa742f0b822",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629054939030,
+          "stop" : 1629054960575,
+          "duration" : 21545
+        }
+      }, {
+        "uid" : "c8cc32ac8641f608",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/c8cc32ac8641f608",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 5 == 11\n +  where 5 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"78915ac63531a7c155031c3bc0c0c668\", element=\"21a5736c-e613-...te.webelement.WebElement (session=\"78915ac63531a7c155031c3bc0c0c668\", element=\"d5fae935-1657-42ff-b993-3f50041da38b\")>])\n +  and   11 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"78915ac63531a7c155031c3bc0c0c668\", element=\"ebf34090-492e-...belement.WebElement (session=\"78915ac63531a7c155031c3bc0c0c668\", element=\"4dac209d-6447-4df8-97a2-b242c75f6d73\")>, ...])",
+        "time" : {
+          "start" : 1629054153524,
+          "stop" : 1629054174992,
+          "duration" : 21468
+        }
+      }, {
+        "uid" : "26c0b11a629d84fa",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/26c0b11a629d84fa",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+        "time" : {
+          "start" : 1629053655802,
+          "stop" : 1629053656985,
+          "duration" : 1183
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "32fd679576abc36b.json",
+  "parameterValues" : [ ]
+}

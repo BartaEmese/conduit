@@ -1,0 +1,165 @@
+{
+  "uid" : "7ea630a03832b804",
+  "name" : "test_conduit04",
+  "fullName" : "testproject.conduit_tc_004_reg_test#test_conduit04",
+  "historyId" : "8f2dd96fadb92e330d23fde1e8f703d9",
+  "time" : {
+    "start" : 1629057815180,
+    "stop" : 1629057852075,
+    "duration" : 36895
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8170bbe00b72e3d",
+      "name" : "log",
+      "source" : "8170bbe00b72e3d.txt",
+      "type" : "text/plain",
+      "size" : 344
+    }, {
+      "uid" : "6207419934d318f2",
+      "name" : "stdout",
+      "source" : "6207419934d318f2.txt",
+      "type" : "text/plain",
+      "size" : 133
+    }, {
+      "uid" : "6ed6de6553b6641c",
+      "name" : "stderr",
+      "source" : "6ed6de6553b6641c.txt",
+      "type" : "text/plain",
+      "size" : 215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "conduit_tc_004_reg_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-798"
+  }, {
+    "name" : "thread",
+    "value" : "3935-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.conduit_tc_004_reg_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "1fa7e9af23d8178c",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/28//#testresult/1fa7e9af23d8178c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629057333878,
+          "stop" : 1629057370813,
+          "duration" : 36935
+        }
+      }, {
+        "uid" : "da718b9a0e70af39",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/da718b9a0e70af39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629056949142,
+          "stop" : 1629056986059,
+          "duration" : 36917
+        }
+      }, {
+        "uid" : "7bc36f2930852199",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/7bc36f2930852199",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629056340164,
+          "stop" : 1629056376942,
+          "duration" : 36778
+        }
+      }, {
+        "uid" : "b672c6a3c9345520",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/b672c6a3c9345520",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629056264116,
+          "stop" : 1629056300832,
+          "duration" : 36716
+        }
+      }, {
+        "uid" : "424448bdccfa26c4",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/25//#testresult/424448bdccfa26c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629055835295,
+          "stop" : 1629055872223,
+          "duration" : 36928
+        }
+      }, {
+        "uid" : "c19aa06b56be1b1c",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/24//#testresult/c19aa06b56be1b1c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629054881142,
+          "stop" : 1629054918345,
+          "duration" : 37203
+        }
+      }, {
+        "uid" : "d8c2ab0feb3ac981",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/d8c2ab0feb3ac981",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629054096105,
+          "stop" : 1629054132862,
+          "duration" : 36757
+        }
+      }, {
+        "uid" : "fe77ca6a4f836529",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/fe77ca6a4f836529",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+        "time" : {
+          "start" : 1629053652078,
+          "stop" : 1629053653264,
+          "duration" : 1186
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7ea630a03832b804.json",
+  "parameterValues" : [ ]
+}
