@@ -67,20 +67,3 @@ jobs:
         PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: allure-history
-    
-    - name: Collect docker logs on failure
-      uses: jwalton/gh-docker-logs@v1
-      with:
-        dest: './logs'
-    
-    - name: Archive execution artifacts
-      uses: actions/upload-artifact@v2
-      with:
-        name: docker-logs
-        path: ./logs
-    
-    - name: Archive execution artifacts
-      uses: actions/upload-artifact@v2
-      with:
-        name: application-screenshot
-        path: screenshot.png
