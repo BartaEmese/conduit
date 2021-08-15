@@ -15,8 +15,7 @@ def test_conduit01():
     from webdriver_manager.chrome import ChromeDriverManager
 
     options = Options()
-    options.add_argument('--headless')
-
+    #options.add_argument('--headless')
     driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
     # Oldal betöltése
@@ -45,7 +44,8 @@ def test_conduit01():
         writer.writerow(tags_list)
 
     # Sign up gomb megnyomása után vizsgáljuk a beviteli mezők meglétét
-    sing_up = driver.find_element_by_xpath('//a[@href="#/register"]').click()
+    sing_up = driver.find_element_by_xpath('//a[@href="#/register"]')
+    sing_up.click()
     time.sleep(2)
 
     sing_up_button = driver.find_element_by_xpath("//button")
