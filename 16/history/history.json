@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d165c07d2861f74d",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/16//#testresult/d165c07d2861f74d",
+      "uid" : "5019494ac10bfce3",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/16//#testresult/5019494ac10bfce3",
       "status" : "passed",
       "time" : {
-        "start" : 1628971577243,
-        "stop" : 1628971590444,
-        "duration" : 13201
+        "start" : 1629050017927,
+        "stop" : 1629050030608,
+        "duration" : 12681
       }
     } ]
   }
