@@ -17,12 +17,10 @@ def test_conduit02():
 
     options = Options()
     options.add_argument('--headless')
-
     driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
     # Oldal betöltése
     driver.get("http://localhost:1667")
-    time.sleep(2)
 
     # random jelszó
     def get_ppass(lowers_count, digits_count, uppers_count):
