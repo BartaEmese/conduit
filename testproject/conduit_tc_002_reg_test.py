@@ -22,6 +22,7 @@ def test_conduit02():
 
     # Oldal betöltése
     driver.get("http://localhost:1667")
+    time.sleep(2)
 
     # random jelszó
     def get_ppass(lowers_count, digits_count, uppers_count):
