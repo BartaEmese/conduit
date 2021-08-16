@@ -4,10 +4,10 @@
     "uid" : "6aa08bfe2a13391195b08fb6547eb0ba",
     "name" : "testproject",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
       "total" : 8
     }
