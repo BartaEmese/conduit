@@ -3,6 +3,20 @@
   "reportUrl" : "https://BartaEmese.github.io/conduit/36/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 137982
+  }
+}, {
+  "buildOrder" : 37,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/37/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 134226
+  }
+}, {
+  "buildOrder" : 36,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/36/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 144134
   }
 }, {
@@ -124,13 +138,4 @@
   "data" : {
     "duration" : 126542
   }
-}, {
-  "buildOrder" : 22,
-  "reportUrl" : "https://BartaEmese.github.io/conduit/22/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 14633
-  }
-}, {
-  "data" : { }
 } ]
