@@ -15,6 +15,22 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 37,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/37/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 8,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 36,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/36/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 8,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 36,
   "reportUrl" : "https://BartaEmese.github.io/conduit/36/",
   "reportName" : "Allure Report with history",
@@ -137,22 +153,6 @@
 }, {
   "buildOrder" : 24,
   "reportUrl" : "https://BartaEmese.github.io/conduit/24/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 8,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 23,
-  "reportUrl" : "https://BartaEmese.github.io/conduit/23/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 8,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 22,
-  "reportUrl" : "https://BartaEmese.github.io/conduit/22/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 8,

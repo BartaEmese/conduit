@@ -4,11 +4,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 19,
+      "passed" : 21,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "f2674668fd540130",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/f2674668fd540130",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629108492582,
+        "stop" : 1629108503786,
+        "duration" : 11204
+      }
+    }, {
+      "uid" : "244419bf0049f4f4",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/244419bf0049f4f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629107619041,
+        "stop" : 1629107631148,
+        "duration" : 12107
+      }
+    }, {
       "uid" : "4deff59c4f50ccb",
       "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/4deff59c4f50ccb",
       "status" : "passed",
@@ -170,25 +188,6 @@
         "stop" : 1629054939027,
         "duration" : 11652
       }
-    }, {
-      "uid" : "7dca226502984b33",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/7dca226502984b33",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629054141867,
-        "stop" : 1629054153520,
-        "duration" : 11653
-      }
-    }, {
-      "uid" : "491e2560173d2308",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/491e2560173d2308",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
-      "time" : {
-        "start" : 1629053654555,
-        "stop" : 1629053655762,
-        "duration" : 1207
-      }
     } ]
   },
   "e011632aa3b12865df24965950f3faae" : {
@@ -196,11 +195,29 @@
       "failed" : 4,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 17,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "88c23e40003ab3e8",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/88c23e40003ab3e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629108503790,
+        "stop" : 1629108526816,
+        "duration" : 23026
+      }
+    }, {
+      "uid" : "abde0769b03413f4",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/abde0769b03413f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629107631151,
+        "stop" : 1629107653226,
+        "duration" : 22075
+      }
+    }, {
       "uid" : "639edc9adc2e05b1",
       "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/639edc9adc2e05b1",
       "status" : "passed",
@@ -365,26 +382,6 @@
         "stop" : 1629054960575,
         "duration" : 21545
       }
-    }, {
-      "uid" : "c8cc32ac8641f608",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/c8cc32ac8641f608",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: assert 5 == 11\n +  where 5 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"78915ac63531a7c155031c3bc0c0c668\", element=\"21a5736c-e613-...te.webelement.WebElement (session=\"78915ac63531a7c155031c3bc0c0c668\", element=\"d5fae935-1657-42ff-b993-3f50041da38b\")>])\n +  and   11 = len([<selenium.webdriver.remote.webelement.WebElement (session=\"78915ac63531a7c155031c3bc0c0c668\", element=\"ebf34090-492e-...belement.WebElement (session=\"78915ac63531a7c155031c3bc0c0c668\", element=\"4dac209d-6447-4df8-97a2-b242c75f6d73\")>, ...])",
-      "time" : {
-        "start" : 1629054153524,
-        "stop" : 1629054174992,
-        "duration" : 21468
-      }
-    }, {
-      "uid" : "26c0b11a629d84fa",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/26c0b11a629d84fa",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
-      "time" : {
-        "start" : 1629053655802,
-        "stop" : 1629053656985,
-        "duration" : 1183
-      }
     } ]
   },
   "8f2dd96fadb92e330d23fde1e8f703d9" : {
@@ -392,11 +389,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 19,
+      "passed" : 21,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "b6304ec3e3391650",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/b6304ec3e3391650",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629108445617,
+        "stop" : 1629108483062,
+        "duration" : 37445
+      }
+    }, {
+      "uid" : "d7ad8e9a591a4837",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/d7ad8e9a591a4837",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629107572304,
+        "stop" : 1629107609547,
+        "duration" : 37243
+      }
+    }, {
       "uid" : "9fbe2a0df4c654dd",
       "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/9fbe2a0df4c654dd",
       "status" : "passed",
@@ -558,25 +573,6 @@
         "stop" : 1629054918345,
         "duration" : 37203
       }
-    }, {
-      "uid" : "d8c2ab0feb3ac981",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/d8c2ab0feb3ac981",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629054096105,
-        "stop" : 1629054132862,
-        "duration" : 36757
-      }
-    }, {
-      "uid" : "fe77ca6a4f836529",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/fe77ca6a4f836529",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
-      "time" : {
-        "start" : 1629053652078,
-        "stop" : 1629053653264,
-        "duration" : 1186
-      }
     } ]
   },
   "7b33dc394df9e13a65be4e33170d7370" : {
@@ -584,11 +580,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 19,
+      "passed" : 21,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "224e136a142b8e41",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/224e136a142b8e41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629108526821,
+        "stop" : 1629108534172,
+        "duration" : 7351
+      }
+    }, {
+      "uid" : "8f80278d1de772dd",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/8f80278d1de772dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629107653229,
+        "stop" : 1629107660552,
+        "duration" : 7323
+      }
+    }, {
       "uid" : "91a31987d73c5e96",
       "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/91a31987d73c5e96",
       "status" : "passed",
@@ -750,25 +764,6 @@
         "stop" : 1629054967454,
         "duration" : 6876
       }
-    }, {
-      "uid" : "c8c3a7d9b42f864b",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/c8c3a7d9b42f864b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629054175008,
-        "stop" : 1629054181888,
-        "duration" : 6880
-      }
-    }, {
-      "uid" : "cb39bcc6ff7168a9",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/cb39bcc6ff7168a9",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
-      "time" : {
-        "start" : 1629053657026,
-        "stop" : 1629053658399,
-        "duration" : 1373
-      }
     } ]
   },
   "dd84d751a6356fcc3f2119dc0ce32734" : {
@@ -776,11 +771,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 19,
+      "passed" : 21,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "c43a13e4a76a9447",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/c43a13e4a76a9447",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629108404206,
+        "stop" : 1629108418475,
+        "duration" : 14269
+      }
+    }, {
+      "uid" : "3d8911cfabc3358b",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/3d8911cfabc3358b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629107537007,
+        "stop" : 1629107545000,
+        "duration" : 7993
+      }
+    }, {
       "uid" : "5beed9786eb51651",
       "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/5beed9786eb51651",
       "status" : "passed",
@@ -942,25 +955,6 @@
         "stop" : 1629054866536,
         "duration" : 16103
       }
-    }, {
-      "uid" : "749f5d07f01986a2",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/749f5d07f01986a2",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629054065280,
-        "stop" : 1629054082521,
-        "duration" : 17241
-      }
-    }, {
-      "uid" : "5c5ff61e48cfd5f7",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/5c5ff61e48cfd5f7",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
-      "time" : {
-        "start" : 1629053644003,
-        "stop" : 1629053650774,
-        "duration" : 6771
-      }
     } ]
   },
   "bee41d7ee7186b1d87a775ce0e2f0c80" : {
@@ -968,11 +962,29 @@
       "failed" : 1,
       "broken" : 8,
       "skipped" : 0,
-      "passed" : 11,
+      "passed" : 13,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "e8b7a9c6c2f3d14f",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/e8b7a9c6c2f3d14f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629108418479,
+        "stop" : 1629108445613,
+        "duration" : 27134
+      }
+    }, {
+      "uid" : "3ff5a6c4a493e4ae",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/3ff5a6c4a493e4ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629107545004,
+        "stop" : 1629107572301,
+        "duration" : 27297
+      }
+    }, {
       "uid" : "55fea5e63c6f2840",
       "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/55fea5e63c6f2840",
       "status" : "passed",
@@ -1141,26 +1153,6 @@
         "stop" : 1629054880997,
         "duration" : 14457
       }
-    }, {
-      "uid" : "2435dcd2bfc38b1",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/2435dcd2bfc38b1",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class=\"swal-title\"]\"}\n  (Session info: headless chrome=92.0.4515.131)",
-      "time" : {
-        "start" : 1629054082527,
-        "stop" : 1629054096021,
-        "duration" : 13494
-      }
-    }, {
-      "uid" : "a8743f5fcc7990b5",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/a8743f5fcc7990b5",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
-      "time" : {
-        "start" : 1629053650849,
-        "stop" : 1629053652038,
-        "duration" : 1189
-      }
     } ]
   },
   "ebf6f380221f64db634ebaa937858740" : {
@@ -1168,11 +1160,29 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 19,
+      "passed" : 21,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "be380835819e9638",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/be380835819e9638",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629108483066,
+        "stop" : 1629108492578,
+        "duration" : 9512
+      }
+    }, {
+      "uid" : "162b437b30b92bb4",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/162b437b30b92bb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629107609551,
+        "stop" : 1629107619037,
+        "duration" : 9486
+      }
+    }, {
       "uid" : "f61d171681cd1daf",
       "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/f61d171681cd1daf",
       "status" : "passed",
@@ -1334,25 +1344,6 @@
         "stop" : 1629054927372,
         "duration" : 9021
       }
-    }, {
-      "uid" : "fd99b74bafb23747",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/fd99b74bafb23747",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629054132865,
-        "stop" : 1629054141864,
-        "duration" : 8999
-      }
-    }, {
-      "uid" : "3e3fd2a5a6dfb683",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/3e3fd2a5a6dfb683",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
-      "time" : {
-        "start" : 1629053653302,
-        "stop" : 1629053654517,
-        "duration" : 1215
-      }
     } ]
   },
   "a280ec2078933dfc197dd7f7247e2a2e" : {
@@ -1360,11 +1351,29 @@
       "failed" : 3,
       "broken" : 2,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 17,
       "unknown" : 0,
-      "total" : 20
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "1c0b4da195961001",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/1c0b4da195961001",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629108534176,
+        "stop" : 1629108549632,
+        "duration" : 15456
+      }
+    }, {
+      "uid" : "92980edc6a0cb75c",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/92980edc6a0cb75c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629107660558,
+        "stop" : 1629107674989,
+        "duration" : 14431
+      }
+    }, {
       "uid" : "907148e2c1bee25d",
       "reportUrl" : "https://BartaEmese.github.io/conduit/37//#testresult/907148e2c1bee25d",
       "status" : "passed",
@@ -1529,25 +1538,6 @@
         "start" : 1629054967458,
         "stop" : 1629054977427,
         "duration" : 9969
-      }
-    }, {
-      "uid" : "b19e9bf7ccc0cfbb",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/b19e9bf7ccc0cfbb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629054181892,
-        "stop" : 1629054191822,
-        "duration" : 9930
-      }
-    }, {
-      "uid" : "8ac87a61991b42bf",
-      "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/8ac87a61991b42bf",
-      "status" : "broken",
-      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
-      "time" : {
-        "start" : 1629053658441,
-        "stop" : 1629053658636,
-        "duration" : 195
       }
     } ]
   }

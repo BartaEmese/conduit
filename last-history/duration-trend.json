@@ -1,4 +1,11 @@
 [ {
+  "buildOrder" : 37,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/37/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 145426
+  }
+}, {
   "buildOrder" : 36,
   "reportUrl" : "https://BartaEmese.github.io/conduit/36/",
   "reportName" : "Allure Report with history",
@@ -130,12 +137,5 @@
   "reportName" : "Allure Report with history",
   "data" : {
     "duration" : 126994
-  }
-}, {
-  "buildOrder" : 23,
-  "reportUrl" : "https://BartaEmese.github.io/conduit/23/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 126542
   }
 } ]
