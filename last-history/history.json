@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 15,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "139e8fff07070b91",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/139e8fff07070b91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629105626039,
+        "stop" : 1629105637775,
+        "duration" : 11736
+      }
+    }, {
       "uid" : "1a3752e44e74b92c",
       "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/1a3752e44e74b92c",
       "status" : "passed",
@@ -151,11 +160,20 @@
       "failed" : 4,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "ac05211da1d6987b",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/ac05211da1d6987b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629105637778,
+        "stop" : 1629105660407,
+        "duration" : 22629
+      }
+    }, {
       "uid" : "cd12a688633110a4",
       "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/cd12a688633110a4",
       "status" : "passed",
@@ -302,11 +320,20 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 15,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "f8d780c651b95fc8",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/f8d780c651b95fc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629105580033,
+        "stop" : 1629105616961,
+        "duration" : 36928
+      }
+    }, {
       "uid" : "f224da5ddfd55433",
       "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/f224da5ddfd55433",
       "status" : "passed",
@@ -449,11 +476,20 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 15,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "e3395a1b1b70c19e",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/e3395a1b1b70c19e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629105660410,
+        "stop" : 1629105666272,
+        "duration" : 5862
+      }
+    }, {
       "uid" : "3b6c0caa73a8f56d",
       "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/3b6c0caa73a8f56d",
       "status" : "passed",
@@ -596,11 +632,20 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 15,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "24e94612c418a598",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/24e94612c418a598",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629105532806,
+        "stop" : 1629105553366,
+        "duration" : 20560
+      }
+    }, {
       "uid" : "718fd99fded4702b",
       "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/718fd99fded4702b",
       "status" : "passed",
@@ -743,11 +788,20 @@
       "failed" : 1,
       "broken" : 8,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "f81b04a0e061f710",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/f81b04a0e061f710",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629105553370,
+        "stop" : 1629105580029,
+        "duration" : 26659
+      }
+    }, {
       "uid" : "8bcad5729abcf11b",
       "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/8bcad5729abcf11b",
       "status" : "passed",
@@ -898,11 +952,20 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 15,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "98c90e720b62a1a1",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/98c90e720b62a1a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629105616965,
+        "stop" : 1629105626035,
+        "duration" : 9070
+      }
+    }, {
       "uid" : "290de8c1e0c08e0c",
       "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/290de8c1e0c08e0c",
       "status" : "passed",
@@ -1045,11 +1108,20 @@
       "failed" : 2,
       "broken" : 2,
       "skipped" : 0,
-      "passed" : 11,
+      "passed" : 12,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "488d0967f874adee",
+      "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/488d0967f874adee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629105666277,
+        "stop" : 1629105677325,
+        "duration" : 11048
+      }
+    }, {
       "uid" : "274f15cd02dd716d",
       "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/274f15cd02dd716d",
       "status" : "broken",

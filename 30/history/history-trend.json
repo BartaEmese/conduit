@@ -11,6 +11,78 @@
     "total" : 8
   }
 }, {
+  "buildOrder" : 35,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/35/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 1,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 34,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/34/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 8,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 33,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/33/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 8,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 32,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/32/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 31,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/31/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
+  "buildOrder" : 30,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/30/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 8,
+    "unknown" : 0,
+    "total" : 8
+  }
+}, {
   "buildOrder" : 29,
   "reportUrl" : "https://BartaEmese.github.io/conduit/29/",
   "reportName" : "Allure Report with history",

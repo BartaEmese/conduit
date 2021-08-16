@@ -6,13 +6,13 @@
       "name" : "conduit_tc_001_reg_test",
       "children" : [ {
         "name" : "test_conduit01",
-        "uid" : "4b736aafaa2c20b0",
+        "uid" : "24e94612c418a598",
         "parentUid" : "3bab3948467d9117a43eb048a261b104",
         "status" : "passed",
         "time" : {
-          "start" : 1629058385305,
-          "stop" : 1629058398670,
-          "duration" : 13365
+          "start" : 1629105532806,
+          "stop" : 1629105553366,
+          "duration" : 20560
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +23,13 @@
       "name" : "conduit_tc_002_reg_test",
       "children" : [ {
         "name" : "test_conduit02",
-        "uid" : "4d4fbf30ea564015",
+        "uid" : "f81b04a0e061f710",
         "parentUid" : "eb4127a7ab3636b331e51e3613a20353",
         "status" : "passed",
         "time" : {
-          "start" : 1629058398673,
-          "stop" : 1629058425356,
-          "duration" : 26683
+          "start" : 1629105553370,
+          "stop" : 1629105580029,
+          "duration" : 26659
         },
         "flaky" : false,
         "newFailed" : false,
@@ -40,13 +40,13 @@
       "name" : "conduit_tc_004_reg_test",
       "children" : [ {
         "name" : "test_conduit04",
-        "uid" : "f3c51ef8cf218636",
+        "uid" : "f8d780c651b95fc8",
         "parentUid" : "ca048793cd29cf74d82faadc55d1f193",
         "status" : "passed",
         "time" : {
-          "start" : 1629058425360,
-          "stop" : 1629058461154,
-          "duration" : 35794
+          "start" : 1629105580033,
+          "stop" : 1629105616961,
+          "duration" : 36928
         },
         "flaky" : false,
         "newFailed" : false,
@@ -57,13 +57,13 @@
       "name" : "conduit_tc_006_reg_test",
       "children" : [ {
         "name" : "test_conduit06",
-        "uid" : "156f4ce972867eb2",
+        "uid" : "98c90e720b62a1a1",
         "parentUid" : "643dbd2e4a9ed0c0b1d8ef8876ee00c5",
         "status" : "passed",
         "time" : {
-          "start" : 1629058461158,
-          "stop" : 1629058470245,
-          "duration" : 9087
+          "start" : 1629105616965,
+          "stop" : 1629105626035,
+          "duration" : 9070
         },
         "flaky" : false,
         "newFailed" : false,
@@ -74,13 +74,13 @@
       "name" : "conduit_tc_011_reg_test",
       "children" : [ {
         "name" : "test_conduit11",
-        "uid" : "3b70bee94a524a24",
+        "uid" : "139e8fff07070b91",
         "parentUid" : "23e8346d5a69f958789e7441e0ef1520",
         "status" : "passed",
         "time" : {
-          "start" : 1629058470249,
-          "stop" : 1629058481868,
-          "duration" : 11619
+          "start" : 1629105626039,
+          "stop" : 1629105637775,
+          "duration" : 11736
         },
         "flaky" : false,
         "newFailed" : false,
@@ -91,13 +91,13 @@
       "name" : "conduit_tc_012-reg_test",
       "children" : [ {
         "name" : "test_conduit12",
-        "uid" : "e908dfa8883daecb",
+        "uid" : "ac05211da1d6987b",
         "parentUid" : "8bb4aa3001e7f0e8bb5c0f2c83fcf340",
         "status" : "passed",
         "time" : {
-          "start" : 1629058481871,
-          "stop" : 1629058504410,
-          "duration" : 22539
+          "start" : 1629105637778,
+          "stop" : 1629105660407,
+          "duration" : 22629
         },
         "flaky" : false,
         "newFailed" : false,
@@ -108,13 +108,13 @@
       "name" : "conduit_tc_018_reg_test",
       "children" : [ {
         "name" : "test_conduit18",
-        "uid" : "6527bc2be301f629",
+        "uid" : "e3395a1b1b70c19e",
         "parentUid" : "594a3a57d69f09675f0537bf9e6e409e",
         "status" : "passed",
         "time" : {
-          "start" : 1629058504414,
-          "stop" : 1629058511253,
-          "duration" : 6839
+          "start" : 1629105660410,
+          "stop" : 1629105666272,
+          "duration" : 5862
         },
         "flaky" : false,
         "newFailed" : false,
@@ -125,13 +125,13 @@
       "name" : "conduit_tc_019-reg_test",
       "children" : [ {
         "name" : "test_conduit19",
-        "uid" : "52b01cd0dad72058",
+        "uid" : "488d0967f874adee",
         "parentUid" : "5169938aaca135880189410ace9ad432",
         "status" : "passed",
         "time" : {
-          "start" : 1629058511257,
-          "stop" : 1629058522219,
-          "duration" : 10962
+          "start" : 1629105666277,
+          "stop" : 1629105677325,
+          "duration" : 11048
         },
         "flaky" : false,
         "newFailed" : false,
