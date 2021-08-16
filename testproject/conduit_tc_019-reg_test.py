@@ -15,7 +15,7 @@ def test_conduit19():
     from webdriver_manager.chrome import ChromeDriverManager
 
     options = Options()
-    options.add_argument('--headless')
+    #options.add_argument('--headless')
 
     driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
     try:
@@ -47,9 +47,9 @@ def test_conduit19():
         # testuser1 felhasználó blogbejegyzéseinek kikeresése
         testuser1 = driver.find_element_by_xpath('//li[@class="nav-item"]//a[@href="#/@testuser1/"]')
         testuser1.click()
-        time.sleep(6)
+        time.sleep(7)
         article_title = driver.find_elements_by_xpath('//div[@class="article-preview"]')
-
+        time.sleep(3)
         print(len(article_title))
         # Ellenőrzés: egy oldalon megjelenő blogbejegyzés max 10 db
         assert len(article_title) <= 10
