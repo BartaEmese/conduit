@@ -1,0 +1,264 @@
+{
+  "uid" : "9fbe2a0df4c654dd",
+  "name" : "test_conduit04",
+  "fullName" : "testproject.conduit_tc_004_reg_test#test_conduit04",
+  "historyId" : "8f2dd96fadb92e330d23fde1e8f703d9",
+  "time" : {
+    "start" : 1629107520233,
+    "stop" : 1629107557210,
+    "duration" : 36977
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8c44202abf25e58a",
+      "name" : "log",
+      "source" : "8c44202abf25e58a.txt",
+      "type" : "text/plain",
+      "size" : 344
+    }, {
+      "uid" : "c018340d2e7aba0b",
+      "name" : "stdout",
+      "source" : "c018340d2e7aba0b.txt",
+      "type" : "text/plain",
+      "size" : 133
+    }, {
+      "uid" : "aebf3e47779101e3",
+      "name" : "stderr",
+      "source" : "aebf3e47779101e3.txt",
+      "type" : "text/plain",
+      "size" : 215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "conduit_tc_004_reg_test"
+  }, {
+    "name" : "host",
+    "value" : "fv-az74-94"
+  }, {
+    "name" : "thread",
+    "value" : "3736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.conduit_tc_004_reg_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 19,
+        "unknown" : 0,
+        "total" : 20
+      },
+      "items" : [ {
+        "uid" : "d79145be6cb2c670",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/d79145be6cb2c670",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629106767585,
+          "stop" : 1629106803280,
+          "duration" : 35695
+        }
+      }, {
+        "uid" : "2d1f4c6b97963e7d",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/2d1f4c6b97963e7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629106106395,
+          "stop" : 1629106142220,
+          "duration" : 35825
+        }
+      }, {
+        "uid" : "c434b709aeac8877",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/36//#testresult/c434b709aeac8877",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629105595562,
+          "stop" : 1629105632788,
+          "duration" : 37226
+        }
+      }, {
+        "uid" : "f8d780c651b95fc8",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/f8d780c651b95fc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629105580033,
+          "stop" : 1629105616961,
+          "duration" : 36928
+        }
+      }, {
+        "uid" : "f224da5ddfd55433",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/35//#testresult/f224da5ddfd55433",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629105563811,
+          "stop" : 1629105599942,
+          "duration" : 36131
+        }
+      }, {
+        "uid" : "af1533649606cdfa",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/34//#testresult/af1533649606cdfa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629105268857,
+          "stop" : 1629105305376,
+          "duration" : 36519
+        }
+      }, {
+        "uid" : "57ad880a3aef6b94",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/33//#testresult/57ad880a3aef6b94",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629105240268,
+          "stop" : 1629105275928,
+          "duration" : 35660
+        }
+      }, {
+        "uid" : "fe6996b4c5385a92",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/32//#testresult/fe6996b4c5385a92",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629105210994,
+          "stop" : 1629105247716,
+          "duration" : 36722
+        }
+      }, {
+        "uid" : "688ea5a478a83629",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/31//#testresult/688ea5a478a83629",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629105157512,
+          "stop" : 1629105194499,
+          "duration" : 36987
+        }
+      }, {
+        "uid" : "f3c51ef8cf218636",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/30//#testresult/f3c51ef8cf218636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629058425360,
+          "stop" : 1629058461154,
+          "duration" : 35794
+        }
+      }, {
+        "uid" : "7ea630a03832b804",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/29//#testresult/7ea630a03832b804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629057815180,
+          "stop" : 1629057852075,
+          "duration" : 36895
+        }
+      }, {
+        "uid" : "1fa7e9af23d8178c",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/28//#testresult/1fa7e9af23d8178c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629057333878,
+          "stop" : 1629057370813,
+          "duration" : 36935
+        }
+      }, {
+        "uid" : "da718b9a0e70af39",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/da718b9a0e70af39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629056949142,
+          "stop" : 1629056986059,
+          "duration" : 36917
+        }
+      }, {
+        "uid" : "7bc36f2930852199",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/27//#testresult/7bc36f2930852199",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629056340164,
+          "stop" : 1629056376942,
+          "duration" : 36778
+        }
+      }, {
+        "uid" : "b672c6a3c9345520",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/26//#testresult/b672c6a3c9345520",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629056264116,
+          "stop" : 1629056300832,
+          "duration" : 36716
+        }
+      }, {
+        "uid" : "424448bdccfa26c4",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/25//#testresult/424448bdccfa26c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629055835295,
+          "stop" : 1629055872223,
+          "duration" : 36928
+        }
+      }, {
+        "uid" : "c19aa06b56be1b1c",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/24//#testresult/c19aa06b56be1b1c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629054881142,
+          "stop" : 1629054918345,
+          "duration" : 37203
+        }
+      }, {
+        "uid" : "d8c2ab0feb3ac981",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/23//#testresult/d8c2ab0feb3ac981",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629054096105,
+          "stop" : 1629054132862,
+          "duration" : 36757
+        }
+      }, {
+        "uid" : "fe77ca6a4f836529",
+        "reportUrl" : "https://BartaEmese.github.io/conduit/22//#testresult/fe77ca6a4f836529",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)",
+        "time" : {
+          "start" : 1629053652078,
+          "stop" : 1629053653264,
+          "duration" : 1186
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9fbe2a0df4c654dd.json",
+  "parameterValues" : [ ]
+}
