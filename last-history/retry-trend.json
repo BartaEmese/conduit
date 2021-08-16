@@ -15,6 +15,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 36,
+  "reportUrl" : "https://BartaEmese.github.io/conduit/36/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 8,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 30,
   "reportUrl" : "https://BartaEmese.github.io/conduit/30/",
   "reportName" : "Allure Report with history",
